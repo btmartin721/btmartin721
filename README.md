@@ -26,7 +26,7 @@ I am also currently aiming to expand my skillset with front-end web development.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C Plus Plus Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Java Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C Plus Plus Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg" alt="Perl Logo" width="50" height="50"/>
 
 
 ----------
