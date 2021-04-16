@@ -9,7 +9,7 @@
   
 <h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="60px"><br>I'm Bradley T. Martin, PhD<br>Data Scientist, Back-End Web Developer, <br>Bioinformatician, Evolutionary Biologist, and Population Geneticist<br></h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/turtlePowerYo?label=Follow%20me%20on%20Twitter%21&style=social) 📫 btm002@uark.edu
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @turtlePowerYo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>) 📫 btm002@uark.edu
 
 ----------
 
