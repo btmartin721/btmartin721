@@ -9,22 +9,6 @@
   
 <h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="60px"><br>I'm Bradley T. Martin, PhD<br>Data Scientist, Back-End Web Developer, <br>Bioinformatician, Evolutionary Biologist, and Population Geneticist<br></h3>
 
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-    <!-- display the social media buttons in your README -->
-
-    [![alt text][1.1]][1]
-
-    <!-- links to social media icons -->
-    <!-- no need to change these -->
-    
-    [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-        
-    [1]: http://www.twitter.com/turtlePowerYo
-    
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 [Follow me on Twitter!](https://twitter.com/turtlePowerYo)  
 ✉️ btm002@uark.edu  
 
