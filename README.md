@@ -20,7 +20,7 @@ I earned my Ph.D. in Biological Sciences, focusing on evolutionary biology and p
 
 I enjoy learning and new challenges and greatly enjoy my work. For personal projects, I am currently developing several new software to implement machine learning into population genomic analyses, which shows promise for resolving long-standing issues involving introgression, species delimitation, and phylogenomics.
 
-I am also currently aiming to broaden my skillset with front-end web development.
+I am also currently aiming to expand my skillset with front-end web development.
 
 ----------
 
