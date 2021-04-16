@@ -9,6 +9,8 @@
   
 <h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="60px"><br>I'm Bradley T. Martin, PhD<br>Data Scientist, Back-End Web Developer, <br>Bioinformatician, Evolutionary Biologist, and Population Geneticist<br></h3>
 
+[![Follow me on Twitter](https://cdn.worldvectorlogo.com/logos/twitter-4.svg)](https://twitter.com/turtlePowerYo)
+
 [Follow me on Twitter!](https://twitter.com/turtlePowerYo)  
 ✉️ btm002@uark.edu  
 
