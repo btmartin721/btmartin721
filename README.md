@@ -12,7 +12,7 @@
 <a href="https://twitter.com/turtlePowerYo" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" 
 alt="Twitter URL" width="20" height="20" border="5" /></a>[    Follow me on Twitter!](https://twitter.com/turtlePowerYo)
 
-✉️ btm002@uark.edu  
+✉️ evobio721@gmail.com  
 
 ----------
 
