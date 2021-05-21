@@ -36,7 +36,7 @@ I am also currently aiming to expand my skillset with front-end web development.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btmartin721&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btmartin721&langs_count=10&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Bradley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=btmartin721&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
