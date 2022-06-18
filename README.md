@@ -16,11 +16,9 @@ alt="Twitter URL" width="20" height="20" border="5" /></a>[    Follow me on Twit
 
 ----------
 
-I earned my Ph.D. in Biological Sciences, focusing on evolutionary biology and population genomics. While pursuing my doctorate, I developed a love for programming. Currently, I work as a data scientist and software developer, specializing in parsing and analyzing large datasets, the development of custom software for university faculty, staff, and students, and back-end web development.
+I earned my Ph.D. in Biological Sciences, focusing on evolutionary biology and population genomics. While pursuing my doctorate, I developed a love for programming. Currently, I work as a bioinformatician and data scientist, specializing in developing software to process and analyze short-read and long-read genomic data.
 
 I enjoy learning and new challenges and greatly enjoy my work. For personal projects, I am currently developing several new software to implement machine learning into population genomic analyses, which shows promise for resolving long-standing issues involving introgression, species delimitation, and phylogenomics.
-
-I am also currently aiming to expand my skillset with front-end web development.
 
 ----------
 
