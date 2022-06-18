@@ -7,7 +7,7 @@
 
   <br>
   
-<h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="15%"><br>I'm Bradley T. Martin, PhD<br><br>Bioinformatician, data scientist, Evolutionary Biologist, and Population Geneticist<br></h3>
+<h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="15%"><br>I'm Bradley T. Martin, PhD<br>Bioinformatician, Data Scientist, Evolutionary Biologist, and Population Geneticist<br></h3>
 
 <a href="https://twitter.com/turtlePowerYo" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" 
 alt="Twitter URL" width="20" height="20" border="5" /></a>[    Follow me on Twitter!](https://twitter.com/turtlePowerYo)
@@ -16,7 +16,7 @@ alt="Twitter URL" width="20" height="20" border="5" /></a>[    Follow me on Twit
 
 ----------
 
-I earned my Ph.D. in Biological Sciences, focusing on evolutionary biology and population genomics. While pursuing my doctorate, I developed a love for programming. Currently, I work as a bioinformatician and data scientist, specializing in developing software to process and analyze short-read and long-read genomic data.
+I earned my Ph.D. in Biological Sciences, focusing on evolutionary biology and population genomics. While pursuing my doctorate, I developed a love for programming. Currently, I work as a bioinformatician and data scientist, specializing in developing machine learning software to process and analyze short-read and long-read genomic data.
 
 I enjoy learning and new challenges and greatly enjoy my work. For personal projects, I am currently developing several new software to implement machine learning into population genomic analyses, which shows promise for resolving long-standing issues involving introgression, species delimitation, and phylogenomics.
 
