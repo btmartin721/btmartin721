@@ -7,7 +7,7 @@
 
   <br>
   
-<h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="15%"><br>I'm Bradley T. Martin, PhD<br>Bioinformatician,Data Scientist,<br>Evolutionary Biologist, and Population Geneticist<br></h3>
+<h3>Hi there! <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif" width="15%"><br>I'm Bradley T. Martin, PhD<br>Bioinformatician, Data Scientist,<br>Evolutionary Biologist, and Population Geneticist<br></h3>
 
 <a href="https://twitter.com/turtlePowerYo" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" 
 alt="Twitter URL" width="20" height="20" border="5" /></a>[    Follow me on Twitter!](https://twitter.com/turtlePowerYo)
