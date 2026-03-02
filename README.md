@@ -32,16 +32,6 @@ I am a computational biologist focusing on evolutionary biology and population g
       <p>A computational tool utilizing deep learning to impute missing data in population genomic SNP datasets.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏈 DaddyAIFantasy</h3>
-      <p>A machine learning side project focused on American football, leveraging data science techniques for fantasy sports analysis and prediction.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Genetics Education</h3>
-      <p>Development of interactive syllabi, grading algorithms, and computational assignments for university genetics students.</p>
-    </td>
-  </tr>
 </table>
 
 ## Technical Toolbox
