@@ -11,13 +11,25 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=btmartin721&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  </p>
+  <p align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=btmartin721&bg_color=00000000&color=36BCF7&line=36BCF7&point=1F6FEB&area=true&hide_border=true" alt="GitHub activity graph" />
+  </p>
+  <p align="center">
+      <img src="https://streak-stats.demolab.com?user=btmartin721&theme=transparent&hide_border=true" alt="GitHub streak stats" />
+  </p>
+  <p align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random quote" />
+  </p>
 </div>
 
 <br>
 
 ## About Me
 
-I am a computational biologist focusing on evolutionary biology and population genomics. My research specifically targets genomic SNP datasets from non-model organisms. My work bridges the gap between biological research and software engineering. I develop AI software to analyze both short-read and long-read genomic data.
+I am a computational biologist and genomic data science focusing on evolutionary biology and population genomics. My research specifically targets genomic SNP datasets from non-model organisms. My work bridges the gap between biological research and software engineering. I develop AI software to analyze both short-read and long-read genomic data.
 
 ## Active Projects
 
@@ -34,6 +46,14 @@ I am a computational biologist focusing on evolutionary biology and population g
   </tr>
 </table>
 
+## Current Directions
+
+- AI methods for population genomic SNP imputation
+- Scientific Python tooling for genomics workflows
+- HPC-enabled analysis pipelines
+- Long-read and short-read genomic data integration
+- Reproducible computational biology
+
 ## Technical Toolbox
 
 **Languages & Scripting**<br>
@@ -41,10 +61,7 @@ I am a computational biologist focusing on evolutionary biology and population g
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/ZSH" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 
 <br>
 
