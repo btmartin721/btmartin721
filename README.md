@@ -29,7 +29,7 @@
 
 ## About Me
 
-I am a computational biologist and genomic data science focusing on evolutionary biology and population genomics. My research specifically targets genomic SNP datasets from non-model organisms. My work bridges the gap between biological research and software engineering. I develop AI software to analyze both short-read and long-read genomic data.
+I am a computational biologist and genomic data scientist focusing on evolutionary biology and population genomics. My research specifically targets genomic SNP datasets from non-model organisms. My work bridges the gap between biological research and software engineering. I develop AI software to analyze both short-read and long-read genomic data.
 
 ## Active Projects
 
