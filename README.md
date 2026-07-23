@@ -15,9 +15,6 @@
       <img src="https://komarev.com/ghpvc/?username=btmartin721&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
   </p>
   <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=btmartin721&bg_color=00000000&color=36BCF7&line=36BCF7&point=1F6FEB&area=true&hide_border=true" alt="GitHub activity graph" />
-  </p>
-  <p align="center">
       <img src="https://streak-stats.demolab.com?user=btmartin721&theme=transparent&hide_border=true" alt="GitHub streak stats" />
   </p>
   <p align="center">
